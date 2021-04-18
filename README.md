@@ -12,3 +12,5 @@ Mods Below
 [Mid-Fight Masses (added cutscenes)](https://w8.snokido.com/games/html5/friday-night-funkin/midfight09/index.html)
 
 [FoolHardy(added cutscenes)](https://w8.snokido.com/games/html5/friday-night-funkin/zardy08/index.html)
+
+[Miku Mod(added cutscenes)](https://w8.snokido.com/games/html5/friday-night-funkin/miku05/index.html)
