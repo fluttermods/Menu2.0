@@ -6,3 +6,7 @@ Mods Below
 
 
 [Whitty Mod](http://v6p9d9t4.ssl.hwcdn.net/html/3642319/Whitty/index.html)
+
+[V.S. Tord](http://v6p9d9t4.ssl.hwcdn.net/html/3648191/vs%20tord/index.html)
+
+[Mid-Fight Masses (added cutscenes)](https://w8.snokido.com/games/html5/friday-night-funkin/midfight09/index.html)
