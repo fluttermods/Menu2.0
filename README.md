@@ -16,3 +16,5 @@ Mods Below
 [Miku Mod(added cutscenes)](https://w8.snokido.com/games/html5/friday-night-funkin/miku05/index.html)
 
 [Week 7](http://uploads.ungrounded.net/alternate/1528000/1528775_alternate_113347_r87.zip/)
+
+[V.S. Neon](https://v6p9d9t4.ssl.hwcdn.net/html/3633681/template/index.html)
