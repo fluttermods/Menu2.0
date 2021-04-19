@@ -14,3 +14,5 @@ Mods Below
 [FoolHardy(added cutscenes)](https://w8.snokido.com/games/html5/friday-night-funkin/zardy08/index.html)
 
 [Miku Mod(added cutscenes)](https://w8.snokido.com/games/html5/friday-night-funkin/miku05/index.html)
+
+[Week 7](http://uploads.ungrounded.net/alternate/1528000/1528775_alternate_113347_r87.zip/)
